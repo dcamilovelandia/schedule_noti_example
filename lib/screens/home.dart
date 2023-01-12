@@ -4,7 +4,6 @@ import 'package:disable_battery_optimization/disable_battery_optimization.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_local_notification/screens/second_screen.dart';
 import 'package:flutter_local_notification/services/local_notification_service.dart';
-import 'package:optimize_battery/optimize_battery.dart';
 
 class Home extends StatefulWidget {
   const Home({Key? key}) : super(key: key);
